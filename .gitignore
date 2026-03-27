@@ -1,0 +1,23 @@
+# Nuxt.js
+.nuxt
+.output
+dist
+.env
+
+# Dependencies
+node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+oh-my-zsh-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Misc
+.npmrc
+.vercel
+.netlify
