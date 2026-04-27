@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       script: [
         {
           id: 'vwoCode',
-          src: 'https://dev.visualwebsiteoptimizer.com/cloud-run-test/final/20001235.js'
+          src: 'https://dev.visualwebsiteoptimizer.com/tag/1226653.js'
         }
       ]
     }
