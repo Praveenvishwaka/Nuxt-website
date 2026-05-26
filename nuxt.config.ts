@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       script: [
         {
           id: 'vwoCode',
-          src: 'https://edge.wingify.net/lib/1055484.js'
+          src: 'https://edge.wingify.net/tag/1055484.js'
         }
       ]
     }
